@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-size: 96px;
+    line-height: 500px;
+    
+    background:url(img/foto1.jpg) no-repeat center center  ;
+    text-align: center;
+}
+
+nav{
+   background-color: rgb(239,197,202);
+    text-align: center;
+    padding: 05px;
+     width: 1100px;
+    margin: 0 auto;
+   
+}
+
+
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    font-family: serif;
+    font-size: 16px;
+    padding: 0 10px;
+    margin: 0 10px;
+}
+nav ul li a {
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    padding: 10px 10px;
+    display: block;
+}
+body{
+    background-image:url(img/Sin%20t%C3%ADtulo-14.jpg);
+    background-position: center top;
+    background-attachment: fixed;
+   
+}
+
+#contencion{
+    font-family: sans-serif;
+    width: 1100px;
+    margin: auto;
+    background: rgb(252,234,187);
+    
+    
+}
+section{
+    overflow: auto;
+    padding-bottom: 30px;
+}
+section article h2{ 
+    padding: 40px;
+    text-align: center;
+    font-size: 42px;
+    
+}
+section article figure {
+display: inline-block;
+    margin: 40px;
+    
+}
+section article div{
+    width: 400px;
+    margin-right:200px;
+    float: right;
+}
+
+section article div p{
+    font-family: sans-serif;
+    font-size: 16px;
+    line-height: 20px;
+      display: inline-block;
+    margin: 0 5px 5px 0;
+    
+        
+}
+section article h3{
+    padding: 30px;
+    
+}
+section h3{
+    padding: 30px;
+    font-size:25px;
+    
+}
+section h4{
+    padding: 30px;
+}
+section li figure{
+    padding: 30px;
+}
+
+section article p{
+    padding: 20px;
+}
+section li p{
+    padding: 20px;
+}
+
+
+footer p {
+    padding: 20px;
+   color: white;
+  text-align: center;
+}
+
+footer{
+    margin-left:400px;
+    margin-right: 400px;
+    background-color: black;
+}
+#video{
+    width: 50%;
+    margin: auto;
+    justify-content: center;
+    display:  flex;
+}
+form{
+    background-color: white;
+    margin-right: 20px;
+    margin-left: 20px;
+ }
+ #video{
+    width: 50%;
+    margin: auto;
+   padding: 100px;
+}
